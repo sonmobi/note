@@ -1,0 +1,3 @@
+$('input[name=link]').val('https://meet.google.com/wse-sdcy-knr');
+window.alert = function() {};
+$('td.add-link-study-online button').trigger( "click" );
